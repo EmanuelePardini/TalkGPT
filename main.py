@@ -6,7 +6,7 @@ import speech_recognition as sr
 r = sr.Recognizer()
 
 # Configura l'API OpenAI
-openai.api_key = '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'
+openai.api_key = 'YOUR-API-KEY-HERE'
 
 # Inizializza il contesto della conversazione
 prompt = "Sei un assistente che risponde alle domande in italiano."
