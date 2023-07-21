@@ -1,7 +1,5 @@
 # TalkGPT
 
-![Hacker News Screenshot](screenshot.png)
-
 ## Description:
 Chat GPT becomes a vocal assistant!
 
